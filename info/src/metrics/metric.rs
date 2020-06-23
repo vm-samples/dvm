@@ -1,6 +1,6 @@
 use crate::metrics::live_time::ExecutionData;
 use std::collections::HashMap;
-use serde_derive::Serialize;
+use serde::Serialize;
 
 /// Application metrics;
 #[derive(Debug, Clone, Default, Serialize, PartialEq)]

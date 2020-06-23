@@ -824,7 +824,6 @@ dependencies = [
  "regex",
  "reqwest",
  "serde",
- "serde_derive",
  "structopt",
  "termcolor",
  "tiny-keccak",
@@ -862,7 +861,6 @@ dependencies = [
  "palaver",
  "prometheus_exporter_base",
  "serde",
- "serde_derive",
  "serde_json",
  "sys-info",
  "sysinfo",
@@ -948,7 +946,6 @@ dependencies = [
  "log 0.4.8",
  "once_cell",
  "serde",
- "serde_derive",
 ]
 
 [[package]]
@@ -984,7 +981,6 @@ dependencies = [
  "futures",
  "hex",
  "serde",
- "serde_derive",
  "serde_json",
  "tokio",
  "twox-hash",

@@ -14,7 +14,7 @@ use ds::DataSource;
 use move_vm_runtime::{loader::ModuleCache};
 use crate::gas_schedule;
 use libra::move_core_types::language_storage::TypeTag;
-use serde_derive::Deserialize;
+use serde::Deserialize;
 use libra_types::account_config::CORE_CODE_ADDRESS;
 use std::collections::HashMap;
 use move_vm_runtime::loader::ScriptCache;

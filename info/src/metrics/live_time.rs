@@ -5,7 +5,7 @@ use std::thread::ThreadId;
 use std::cell::RefCell;
 use once_cell::sync::Lazy;
 use sysinfo::{System, SystemExt};
-use serde_derive::{Serialize, Deserialize};
+use serde::{Serialize, Deserialize};
 use std::sync::atomic::{AtomicBool, Ordering};
 
 /// Live time metrics.

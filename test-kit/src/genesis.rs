@@ -3,7 +3,7 @@ use libra::libra_types::{
     access_path::AccessPath,
     account_address::AccountAddress,
 };
-use serde_derive::Deserialize;
+use serde::Deserialize;
 
 pub fn genesis_write_set() -> WriteSet {
     let genesis = include_str!("../resources/genesis.json");
