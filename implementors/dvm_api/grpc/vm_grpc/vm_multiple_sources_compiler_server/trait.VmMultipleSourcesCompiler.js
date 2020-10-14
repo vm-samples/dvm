@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["dvm_services"] = [{"text":"impl&lt;C&gt; VmMultipleSourcesCompiler for CompilerService&lt;C&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;C: RemoteCache + Clone + Send + Sync + 'static,&nbsp;</span>","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,9 @@
+(function() {var implementors = {};
+implementors["dvm"] = [{"text":"impl Clap for Options","synthetic":false,"types":[]}];
+implementors["dvm_cli"] = [{"text":"impl Clap for LoggingOptions","synthetic":false,"types":[]},{"text":"impl Clap for IntegrationsOptions","synthetic":false,"types":[]}];
+implementors["dvm_info"] = [{"text":"impl Clap for InfoServiceConfig","synthetic":false,"types":[]},{"text":"impl Clap for MemoryOptions","synthetic":false,"types":[]}];
+implementors["move_decompiler"] = [{"text":"impl Clap for Opt","synthetic":false,"types":[]}];
+implementors["movec"] = [{"text":"impl Clap for Opt","synthetic":false,"types":[]}];
+implementors["status_table"] = [{"text":"impl Clap for Opts","synthetic":false,"types":[]}];
+implementors["stdlib_builder"] = [{"text":"impl Clap for Opts","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

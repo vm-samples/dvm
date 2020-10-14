@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["VmScriptMetadataServer","Returns argument names/types for script."]],"trait":[["VmScriptMetadata","Generated trait containing gRPC methods that should be implemented for use with VmScriptMetadataServer."]]});

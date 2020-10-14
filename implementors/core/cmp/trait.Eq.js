@@ -1,0 +1,5 @@
+(function() {var implementors = {};
+implementors["dvm_info"] = [{"text":"impl Eq for ExecutionData","synthetic":false,"types":[]},{"text":"impl Eq for ExecutionResult","synthetic":false,"types":[]}];
+implementors["dvm_runtime"] = [{"text":"impl Eq for BlockMetadata","synthetic":false,"types":[]},{"text":"impl Eq for CurrentTimestamp","synthetic":false,"types":[]},{"text":"impl Eq for Price","synthetic":false,"types":[]},{"text":"impl Eq for U64Store","synthetic":false,"types":[]},{"text":"impl Eq for AddressStore","synthetic":false,"types":[]},{"text":"impl Eq for VectorU8Store","synthetic":false,"types":[]},{"text":"impl Eq for ExecutionResult","synthetic":false,"types":[]}];
+implementors["stdlib"] = [{"text":"impl Eq for Value","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

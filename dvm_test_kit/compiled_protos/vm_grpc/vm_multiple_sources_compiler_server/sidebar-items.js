@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["VmMultipleSourcesCompilerServer",""]],"trait":[["VmMultipleSourcesCompiler","Generated trait containing gRPC methods that should be implemented for use with VmMultipleSourcesCompilerServer."]]});
